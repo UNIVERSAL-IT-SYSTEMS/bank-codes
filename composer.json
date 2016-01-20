@@ -1,6 +1,6 @@
 {
-    "name": "jnaxo/country-codes",
-    "description": "Country codes ISO 3166-1 with zone filtering",
+    "name": "jnaxo/bank-codes",
+    "description": "Swift codes of banks",
     "type": "library",
     "license": "MIT",
     "authors": [
