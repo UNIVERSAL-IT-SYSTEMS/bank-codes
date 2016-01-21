@@ -23,6 +23,5 @@
     },
     "autoload-dev": {
         "psr-4": { "CountryCodes\\Tests\\": "tests/" }
-    },
-    "minimum-stability": "stable"
+    }
 }
