@@ -1,7 +1,6 @@
 {
     "name": "jnaxo/bank-codes",
     "description": "Swift codes of banks",
-    "type": "package",
     "license": "MIT",
     "authors": [
         {
